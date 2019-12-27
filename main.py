@@ -3,6 +3,7 @@ import sys
 
 ASCII = "`^\",:;Il!i~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$"
 
+# image should be in the same folder as code
 fileName = input("Enter image file name: ")
 
 # load image
